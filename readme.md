@@ -2,7 +2,7 @@
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">DANIEL VEGA</h1>
-<h3 align="center">INFORMACIÓN GENERAL/h3>
+<h3 align="center">INFORMACIÓN GENERAL</h3>
 
 - 🔭 ACTUALMENTE TRABAJO EN [NOMBRE DEL PROYECTO](URL-DEL-PROYECTO)
 
