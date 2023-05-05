@@ -1,8 +1,8 @@
 ![Imagen decorativa de tu perfil](URL IMAGEN)
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h1 align="center">Hola 👋, Soy TU NOMBRE</h1>
-<h3 align="center">QUE TE APASIONA</h3>
+<h1 align="center">DANIEL VEGA</h1>
+<h3 align="center">INFORMACIÓN GENERAL/h3>
 
 - 🔭 ACTUALMENTE TRABAJO EN [NOMBRE DEL PROYECTO](URL-DEL-PROYECTO)
 
